@@ -1,1 +1,2 @@
-# Arthur-s-2nd-statistic-homework
+# Arthur-2nd-statistic-homework
+
